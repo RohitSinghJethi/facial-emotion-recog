@@ -9,8 +9,10 @@ then *Image Preprocessing, Dataset Loading, Label Encoding, Pixel Normalization,
 
 
 *Training Dataset Visualization and Label Verification using Matplotlib and TensorFlow*
-then  make a 
-Convolutional Neural Network (CNN) architecture design and model compilation for facial emotion recognition
+
+*Convolutional Neural Network (CNN) architecture design and model compilation for facial emotion recognition*
+
+
 and finally 
 **CNN Model Training, Early Stopping, Model Checkpointing, and Training Performance Visualization**
 
