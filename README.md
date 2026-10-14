@@ -14,8 +14,8 @@ then *Image Preprocessing, Dataset Loading, Label Encoding, Pixel Normalization,
 
 
 and finally 
-**CNN Model Training, Early Stopping, Model Checkpointing, and Training Performance Visualization**
+*CNN Model Training, Early Stopping, Model Checkpointing, and Training Performance Visualization*
 
-after that **Exported Trained Model, Model Persistence, and Class Label Serialization in  Google Drive**
+after that *Exported Trained Model, Model Persistence, and Class Label Serialization in  Google Drive*
 then i have used streamlit for interface 
 i tried gradio too for interface but it did not work well 
