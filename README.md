@@ -18,4 +18,4 @@ and finally
 
 after that *Exported Trained Model, Model Persistence, and Class Label Serialization in  Google Drive*
 then i have used streamlit for interface 
-i tried gradio too for interface but it did not work well 
+
